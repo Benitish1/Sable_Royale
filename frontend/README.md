@@ -1,6 +1,9 @@
 # Sable Royale — Frontend
 
 Luxury hotel website + management dashboard built with **Next.js 14, React, TypeScript and Tailwind CSS**.
+
+**Live demo:** https://sable-royale.vercel.app
+
 It currently runs on **demo data** (saved in the browser's localStorage) so it works without a backend.
 
 ## Run it
